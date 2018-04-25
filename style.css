@@ -1,0 +1,91 @@
+/*CSS looks at Tags, Classes, IDS*/
+
+html {
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'Mr Dafoe', cursive;}
+
+body {
+	background: linear-gradient(#ffcccc, #BFE6BA);
+	margin: 30px 15%;
+	font-family: 'Open Sans';
+	color: white;
+}
+
+h1, h4 {
+	font-family: 'Mr Dafoe';
+	letter-spacing: 2px;
+}
+
+.personal-header {
+  margin-top: 30px;
+}
+
+p, a, li {
+	font-size: 110%;
+	color: white;
+}
+
+.personal-header {
+	padding-bottom: 40px;
+}
+
+.personal-photo img {
+	height: 500px;
+	padding-left: 30px;
+	float: right;
+}
+
+.header-info h1, h4 {
+	margin: 0px;
+}
+
+.header-info h1 {
+	font-size: 300%;
+	letter-spacing: 2px
+}
+
+.header-info h4 {
+	font-size: 150%;
+}
+
+.left-column{
+	float: left;
+	width: 40%;
+}
+
+.right-column{
+	float:right;
+	width: 40%;
+}
+
+.nav {
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.nav a {
+	width: 25%;
+	padding: 0;
+	display: inline-block;
+	text-decoration: none;
+}
+
+.famous-quotes {
+	padding-bottom: 100px;
+}
+.famous-quotes img {
+	float: left;
+	margin: 0 50px 0 20px;
+}
+
+.personal-links a{
+	color: white;
+	text-decoration: none;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
