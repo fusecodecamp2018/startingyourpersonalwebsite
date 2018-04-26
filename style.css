@@ -6,6 +6,9 @@ html {
 
 body {
 	background: linear-gradient(#ffcccc, #BFE6BA);
+	/* background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.3)),  url("flamingo.jpg"); */
+	background-attachment: fixed;
+	background-size: cover;
 	margin: 30px 15%;
 	font-family: 'Open Sans';
 	color: white;
@@ -16,16 +19,13 @@ h1, h4 {
 	letter-spacing: 2px;
 }
 
-.personal-header {
-  margin-top: 30px;
-}
-
 p, a, li {
 	font-size: 110%;
 	color: white;
 }
 
 .personal-header {
+	margin-top: 30px;
 	padding-bottom: 40px;
 }
 
@@ -41,7 +41,6 @@ p, a, li {
 
 .header-info h1 {
 	font-size: 300%;
-	letter-spacing: 2px
 }
 
 .header-info h4 {
