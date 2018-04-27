@@ -22,7 +22,8 @@ Use these following resources below to help build on your website and continue t
 * More Flat UI Colors - http://www.flatuicolorpicker.com/
 
 ## UI Inspiration
-
+* Dribbble (Social platform for designers) - https://dribbble.com
+* Collect UI (Collections of UI Elements) - https://collectui.com/designs
 
 ## General Resources
 * W3 Schools (like a wikipedia for web design) - https://www.w3schools.com/
@@ -30,4 +31,7 @@ Use these following resources below to help build on your website and continue t
 
 ## Next Steps? 
 Want to move further with web design? Here are some next important technologies and tools you can learn about to become an even greater and sophisticated web designer: 
-* 
+* Bootstrap (Twitter designed library of elements you can import into your project) - https://getbootstrap.com/
+* Learning Bootstrap - https://medium.freecodecamp.org/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33
+* Learn Javascript (Helps animate your website and do increasingly complex development) - https://www.javascript.com/
+* FreeCodeCamp (Free and fantastic resource for learning all aspects of software development) - https://freecodecamp.org
