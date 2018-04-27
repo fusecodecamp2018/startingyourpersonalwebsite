@@ -31,6 +31,7 @@ Use these following resources below to help build on your website and continue t
 
 ## Next Steps? 
 Want to move further with web design? Here are some next important technologies and tools you can learn about to become an even greater and sophisticated web designer: 
+* Responsive Web Design (Youtube Tutorial on how to make your website render/look great on any phone/tablet/browser) - https://www.youtube.com/watch?v=2gfxIHe7jW4
 * Bootstrap (Twitter designed library of elements you can import into your project) - https://getbootstrap.com/
 * Learning Bootstrap - https://medium.freecodecamp.org/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33
 * Learn Javascript (Helps animate your website and do increasingly complex development) - https://www.javascript.com/
