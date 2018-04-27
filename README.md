@@ -36,3 +36,4 @@ Want to move further with web design? Here are some next important technologies 
 * Learning Bootstrap - https://medium.freecodecamp.org/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33
 * Learn Javascript (Helps animate your website and do increasingly complex development) - https://www.javascript.com/
 * FreeCodeCamp (Free and fantastic resource for learning all aspects of software development) - https://freecodecamp.org
+* Interneting Is Hard (beautiful website that does good tutorials on more HTML and CSS) - https://internetingishard.com/
